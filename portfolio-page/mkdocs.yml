@@ -44,7 +44,10 @@ plugins:
           name: Deutsch
       nav_translations:
         de:
-          EasyFPU for iOS: EasyFPE für iOS
+          EasyFPU for iOS:
+            translation: EasyFPE für iOS
+            url: https://ulricusr.github.io/iOS-EasyFPU/de
+          
   - search
   - glightbox
 
