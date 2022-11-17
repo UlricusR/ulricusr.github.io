@@ -1,7 +1,18 @@
+# Project information
 site_name: Project Overview
+site_url: https://ulricusr.github.io
+site_author: Ulrich Rüth
+site_description: >-
+  Project overview site for rueth.info
 
+# Repository
+repo_name: ulricusr/ulricusr.github.io
+repo_url: https://github.com/UlricusR/ulricusr.github.io
+
+# Configuration
 theme:
   name: material
+  custom_dir: material/.overrides
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -22,6 +33,7 @@ theme:
   logo: assets/images/logo_white_small.png
   favicon: assets/images/favicon.png
 
+# Customization
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -29,11 +41,13 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ulrichrueth/
 
+# Page tree
 nav:
   - index.md
   - EasyFPU for iOS: https://ulricusr.github.io/iOS-EasyFPU
   - legal.md
 
+# Plugins
 plugins:
   - i18n:
       default_language: en
@@ -49,10 +63,10 @@ plugins:
           EasyFPU for iOS:
             translation: EasyFPE für iOS
             url: https://ulricusr.github.io/iOS-EasyFPU/de
-
   - search
   - glightbox
 
+# Extensions
 markdown_extensions:
   - admonition
   - pymdownx.details
