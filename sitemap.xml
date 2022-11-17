@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>None./</loc>
+         <loc>https://ulricusr.github.io/</loc>
          <lastmod>2022-11-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="None./"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://ulricusr.github.io/"/>
          
          
     </url>
     <url>
-         <loc>Nonelegal/</loc>
+         <loc>https://ulricusr.github.io/legal/</loc>
          <lastmod>2022-11-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/legal/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="Nonede/legal/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://ulricusr.github.io/en/legal/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://ulricusr.github.io/de/legal/"/>
          
     </url>
 </urlset>
