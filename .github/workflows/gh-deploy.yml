@@ -10,7 +10,7 @@ jobs:
     name: MkDocs Github Pages automatic deployment
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout site-sources
+      - name: Checkout main
         uses: actions/checkout@v2
 
       - name: Set up Python 3.9
@@ -26,4 +26,6 @@ jobs:
       - name: MkDocs gh-deploy
         run: |
           git pull
-          mkdocs gh-deploy
+          mkdir ulricusr.github.io
+          cd ulricusr.github.io
+          mkdocs gh-deploy --config-file ../portfolio-page/mkdocs.yml --remote-branch main
