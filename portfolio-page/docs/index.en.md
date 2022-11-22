@@ -1,9 +1,7 @@
 ---
-template: home.html
+template: home-en.html
 hide:
   - footer
+  - navigation
+  - toc
 ---
-
-# Project Overview
-
-Here's the portfolio overview.

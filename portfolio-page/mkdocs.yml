@@ -10,9 +10,13 @@ repo_name: ulricusr/ulricusr.github.io
 repo_url: https://github.com/UlricusR/ulricusr.github.io
 
 # Configuration
+extra_css:
+  - assets/stylesheets/extra.css
 theme:
   name: material
   custom_dir: material/.overrides
+  features:
+    - navigation.tabs
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -64,7 +68,6 @@ plugins:
             translation: EasyFPE für iOS
             url: https://ulricusr.github.io/iOS-EasyFPU/de
   - search
-  - glightbox
 
 # Extensions
 markdown_extensions:
@@ -73,3 +76,9 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true

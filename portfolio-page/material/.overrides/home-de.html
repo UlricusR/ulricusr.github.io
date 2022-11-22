@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+<!-- Custom front matter -->
+{% block extrahead %}
+<link rel="stylesheet" href="assets/stylesheets/owl.carousel.min.css">
+<link rel="stylesheet" href="assets/stylesheets/owl.theme.default.min.css">
+<link rel="stylesheet" href="assets/stylesheets/home.css">
+{{ super() }}
+{% endblock %}
+
+<!-- Render under content -->
+{% block content %}
+<div class="owl-carousel owl-theme">
+  <div class="item">
+    <div class="img-gradient">
+      <img class="owl-background" src="assets/images/pizza-4968645_1920.jpg" alt="EasyFPE" />
+    </div>
+    <div class="owl-central">
+      <h1 class="owl-title">EasyFPE</h1>
+      <div id="hide1000plus">
+        <h2 class="owl-desc">Typ-1-Diabetiker? Komplexe Mahlzeiten berechnen? Mit EasyFPE kein Problem!</h2>
+      </div>
+      <div class="owl-link">
+        <a class="owl-button" href="#easyfpe">Mehr erfahren</a>
+      </div>
+    </div>
+  </div>
+  <div class="item">
+    <div class="img-gradient">
+      <img class="owl-background" src="assets/images/joomla_wallpaper.png" alt="Joomla!-Erweiterungen" />
+    </div>
+    <div class="owl-central">
+      <h1 class="owl-title">Joomla!-Erweiterungen</h1>
+      <div id="hide1000plus">
+        <h2 class="owl-desc">Erweitern Sie Joomla! - das Open Source Content Management System - mit neuen, praktischen Funktionalitäten!</h2>
+      </div>
+      <div class="owl-link">
+        <a class="owl-button" href="#joomla-erweiterungen">Jetzt loslegen</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{ super() }}
+{% endblock %}
+
+{% block scripts %}
+<script src="assets/javascripts/jquery.min.js"></script>
+<script src="assets/javascripts/owl.carousel.min.js"></script>
+<script type="text/javascript">
+  $('.owl-carousel').owlCarousel({
+      items:1,
+      loop:true,
+      autoplay:true,
+      autoplayTimeout:5000,
+  })
+</script>
+{% endblock %}
