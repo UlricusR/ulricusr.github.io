@@ -14,7 +14,7 @@ EasyFPE ist eine App für Typ 1-Diabetiker zum einfachen Berechnen von Kohlenhyd
 
 Sie ist verfügbar für [Android](https://ulricusr.github.io/Android-EasyFPU/de) und [Apple iOS](https://ulricusr.github.io/iOS-EasyFPU/de).
 
-### Versionsvergleich
+### Feature-Übersicht
 
 | Feature                                           | :material-android:{ .icon-large } | :material-apple:{ .icon-large }   |
 | ------------------------------------------------- | --------------------------------- | --------------------------------- |  
@@ -75,13 +75,15 @@ Sie ist verfügbar für [Android](https://ulricusr.github.io/Android-EasyFPU/de)
 
 ![Joomla!-Logo](assets/images/Joomla-flat-logo-en.png){ align=left }
 
-Praktische Erweiterungen für das führende Open Source Content Management System Joomla!
+Praktische Erweiterungen für das führende Open Source Content Management System [Joomla!](https://www.joomla.org){:target="_blank"}
 
 Machen Sie sich Ihr Leben einfacher - halten Sie Ihre Webseite aktuell ohne großen Mehraufwand!
 
 ### EventList
 
-Ein Joomla!-Paket, das wöchentlich wiederkehrende Veranstaltungen automatisch als übersichtliche Liste darstellt und auf die Detail-Beschreibung verlinkt.
+![EventList-Screenshot](assets/images/Portfolio_EventList.png){ style="width:300px", align=right }
+
+[EventList](https://ulricusr.github.io/joomla-eventlist/de) ist ein Joomla!-Paket, das wöchentlich wiederkehrende Veranstaltungen automatisch als übersichtliche Liste darstellt und auf die Detail-Beschreibung verlinkt.
 
 EventList Plugin-Features:
 
@@ -104,7 +106,9 @@ EventList Modul-Features:
 
 ### ChurchCal
 
-Ein Joomla!-Modul, das Kalendereinträge aus ChurchTools holt und als Events darstellt.
+![ChruchCal-Screenshot](assets/images/Portfolio_ChurchCal.png){ style="width:300px", align=right }
+
+[ChurchCal](https://ulricusr.github.io/joomla-churchcal/de) ist ein Joomla!-Modul, das Kalendereinträge aus ChurchTools holt und als Events darstellt.
 
 Joomla! ChurchCal
 
