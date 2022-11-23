@@ -4,6 +4,7 @@ site_url: https://ulricusr.github.io
 site_author: Ulrich Rüth
 site_description: >-
   Project overview site for rueth.info
+edit_uri: edit/main/portfolio-page/docs
 
 # Repository
 repo_name: ulricusr/ulricusr.github.io
