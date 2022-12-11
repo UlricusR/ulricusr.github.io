@@ -51,6 +51,8 @@ nav:
   - index.md
   - EasyFPU for iOS: https://ulricusr.github.io/iOS-EasyFPU
   - EasyFPU for Android: https://ulricusr.github.io/Android-EasyFPU
+  - EventList for Joomla: https://ulricusr.github.io/joomla4-eventlist/
+  - ChurchCal for Joomla: https://ulricusr.github.io/joomla-churchcal/
   - legal.md
 
 # Plugins
@@ -72,6 +74,12 @@ plugins:
           EasyFPU for Android:
             translation: EasyFPE für Android
             url: https://ulricusr.github.io/Android-EasyFPU/de
+          EventList for Joomla:
+            translation: EventList für Joomla
+            url: https://ulricusr.github.io/joomla4-eventlist/de
+          ChurchCal for Joomla:
+            translation: ChurchCal für Joomla
+            url: https://ulricusr.github.io/joomla-churchcal/de
   - search
   - glightbox
 

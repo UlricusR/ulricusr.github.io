@@ -83,7 +83,7 @@ Machen Sie sich Ihr Leben einfacher - halten Sie Ihre Webseite aktuell ohne gro�
 
 ![EventList-Screenshot](assets/images/Portfolio_EventList.png){ style="width:300px", align=right }
 
-[EventList](https://ulricusr.github.io/joomla-eventlist/de) ist ein Joomla!-Paket, das wöchentlich wiederkehrende Veranstaltungen automatisch als übersichtliche Liste darstellt und auf die Detail-Beschreibung verlinkt.
+[EventList](https://ulricusr.github.io/joomla4-eventlist/de) ist ein Joomla!-Paket, das wöchentlich wiederkehrende Veranstaltungen automatisch als übersichtliche Liste darstellt und auf die Detail-Beschreibung verlinkt.
 
 EventList Plugin-Features:
 
