@@ -82,6 +82,20 @@ plugins:
             url: https://www.rueth.info/joomla-churchcal/de
   - search
   - glightbox
+  - redirects:
+      redirect_maps:
+        'index.php/de.md': 'https://www.rueth.info/de/'
+        'index.php/de/easyfpe/easyfpe-android-de.md': 'https://www.rueth.info/Android-EasyFPU/de/'
+        'index.php/de/easyfpe/easyfpe-fuer-ios.md': 'https://www.rueth.info/iOS-EasyFPU/de/'
+        'index.php/de/easyfpe/easyfpe-uebersicht.md': 'https://www.rueth.info/de/#easyfpe'
+        'index.php/de/joomla/churchcal-de.md': 'https://www.rueth.info/joomla-churchcal/de/'
+        'index.php/de/joomla/eventlist-de.md': 'https://www.rueth.info/joomla4-eventlist/de/'
+        'index.php/en.md': 'https://www.rueth.info'
+        'index.php/en/easyfpu-android-en.md': 'https://www.rueth.info/Android-EasyFPU/en/'
+        'index.php/en/easyfpu-for-ios.md': 'https://www.rueth.info/iOS-EasyFPU/en/'
+        'index.php/en/easyfpu/easyfpu-overview.md': 'https://www.rueth.info/en/#easyfpu'
+        'index.php/de/joomla/churchcal-en.md': 'https://www.rueth.info/joomla-churchcal/en/'
+        'index.php/de/joomla/eventlist-en.md': 'https://www.rueth.info/joomla4-eventlist/en/'
 
 # Extensions
 markdown_extensions:
