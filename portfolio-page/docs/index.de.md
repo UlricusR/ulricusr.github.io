@@ -13,7 +13,7 @@ hide:
 
 EasyFPE ist eine App für Typ 1-Diabetiker zum einfachen Berechnen von Kohlenhydraten und Fett-Protein-Einheiten (FPE) bzw. verzögerten Kohlenhydraten (auch bekannt als e-Carbs oder Fake Carbs).
 
-Sie ist verfügbar für [Android](https://ulricusr.github.io/Android-EasyFPU/de) und [Apple iOS](https://ulricusr.github.io/iOS-EasyFPU/de).
+Sie ist verfügbar für [Android](https://www.rueth.info/Android-EasyFPU/de) und [Apple iOS](https://www.rueth.info/iOS-EasyFPU/de).
 
 ### Feature-Übersicht
 
@@ -84,7 +84,7 @@ Machen Sie sich Ihr Leben einfacher - halten Sie Ihre Webseite aktuell ohne gro�
 
 ![EventList-Screenshot](assets/images/Portfolio_EventList.png){ style="width:300px", align=right }
 
-[EventList](https://ulricusr.github.io/joomla4-eventlist/de) ist ein Joomla!-Paket, das wöchentlich wiederkehrende Veranstaltungen automatisch als übersichtliche Liste darstellt und auf die Detail-Beschreibung verlinkt.
+[EventList](https://www.rueth.info/joomla4-eventlist/de) ist ein Joomla!-Paket, das wöchentlich wiederkehrende Veranstaltungen automatisch als übersichtliche Liste darstellt und auf die Detail-Beschreibung verlinkt.
 
 EventList Plugin-Features:
 
@@ -109,7 +109,7 @@ EventList Modul-Features:
 
 ![ChruchCal-Screenshot](assets/images/Portfolio_ChurchCal.png){ style="width:300px", align=right }
 
-[ChurchCal](https://ulricusr.github.io/joomla-churchcal/de) ist ein Joomla!-Modul, das Kalendereinträge aus ChurchTools holt und als Events darstellt.
+[ChurchCal](https://www.rueth.info/joomla-churchcal/de) ist ein Joomla!-Modul, das Kalendereinträge aus ChurchTools holt und als Events darstellt.
 
 Joomla! ChurchCal
 

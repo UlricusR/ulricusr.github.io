@@ -1,6 +1,6 @@
 # Project information
 site_name: Project Overview
-site_url: https://ulricusr.github.io
+site_url: https://www.rueth.info
 site_author: Ulrich Rüth
 site_description: >-
   Project overview site for rueth.info
@@ -49,10 +49,10 @@ extra:
 # Page tree
 nav:
   - index.md
-  - EasyFPU for iOS: https://ulricusr.github.io/iOS-EasyFPU
-  - EasyFPU for Android: https://ulricusr.github.io/Android-EasyFPU
-  - EventList for Joomla: https://ulricusr.github.io/joomla4-eventlist/
-  - ChurchCal for Joomla: https://ulricusr.github.io/joomla-churchcal/
+  - EasyFPU for iOS: https://www.rueth.info/iOS-EasyFPU
+  - EasyFPU for Android: https://www.rueth.info/Android-EasyFPU
+  - EventList for Joomla: https://www.rueth.info/joomla4-eventlist/
+  - ChurchCal for Joomla: https://www.rueth.info/joomla-churchcal/
   - legal.md
 
 # Plugins
@@ -70,16 +70,16 @@ plugins:
         de:
           EasyFPU for iOS:
             translation: EasyFPE für iOS
-            url: https://ulricusr.github.io/iOS-EasyFPU/de
+            url: https://www.rueth.info/iOS-EasyFPU/de
           EasyFPU for Android:
             translation: EasyFPE für Android
-            url: https://ulricusr.github.io/Android-EasyFPU/de
+            url: https://www.rueth.info/Android-EasyFPU/de
           EventList for Joomla:
             translation: EventList für Joomla
-            url: https://ulricusr.github.io/joomla4-eventlist/de
+            url: https://www.rueth.info/joomla4-eventlist/de
           ChurchCal for Joomla:
             translation: ChurchCal für Joomla
-            url: https://ulricusr.github.io/joomla-churchcal/de
+            url: https://www.rueth.info/joomla-churchcal/de
   - search
   - glightbox
 

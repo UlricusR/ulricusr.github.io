@@ -13,7 +13,7 @@ hide:
 
 EasyFPU is an App made for T1D patients to ease the calculation of complex meals with sugars, regular carbs and extended carbs.
 
-It is available for [Android](https://ulricusr.github.io/Android-EasyFPU) and [Apple iOS](https://ulricusr.github.io/iOS-EasyFPU).
+It is available for [Android](https://www.rueth.info/Android-EasyFPU) and [Apple iOS](https://www.rueth.info/iOS-EasyFPU).
 
 ### Feature Overview
 
@@ -84,7 +84,7 @@ Make your life easy by keeping your website up-to-date without much effort!
 
 ![EventList screenshot](assets/images/Portfolio_EventList.png){ style="width:300px", align=right }
 
-[EventList](https://ulricusr.github.io/joomla4-eventlist) is a Joomla! package generating and displaying a clear list of weekly recurring events and linking to their detailed description.
+[EventList](https://www.rueth.info/joomla4-eventlist) is a Joomla! package generating and displaying a clear list of weekly recurring events and linking to their detailed description.
 
 EventList Plugin features:
 
@@ -109,7 +109,7 @@ EventList Module features:
 
 ![ChruchCal screenshot](assets/images/Portfolio_ChurchCal.png){ style="width:300px", align=right }
 
-[ChurchCal](https://ulricusr.github.io/joomla-churchcal) is a Joomla! module to retrieve and display ChurchTools calendar events as event view on a website.
+[ChurchCal](https://www.rueth.info/joomla-churchcal) is a Joomla! module to retrieve and display ChurchTools calendar events as event view on a website.
 
 Joomla! ChurchCal
 
