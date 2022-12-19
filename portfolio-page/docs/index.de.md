@@ -30,7 +30,7 @@ Sie ist verfügbar für [Android](https://www.rueth.info/Android-EasyFPU/de) und
 | Berechnung von Kohlenhydraten aus Zucker          | :material-close:{ .red }          | :material-check:{ .green }        |
 | Export nach Apple Health                          | :material-close:{ .red }          | :material-check:{ .green }        |
 
-### Features
+### Besonderheiten
 
 === "Essensliste"
 
