@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://ulricusr.github.io/</loc>
+         <loc>https://www.rueth.info/</loc>
          <lastmod>2022-12-19</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://ulricusr.github.io/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.rueth.info/"/>
          
          
     </url>
     <url>
-         <loc>https://ulricusr.github.io/legal/</loc>
+         <loc>https://www.rueth.info/legal/</loc>
          <lastmod>2022-12-19</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://ulricusr.github.io/en/legal/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://ulricusr.github.io/de/legal/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.rueth.info/en/legal/"/>
+         <xhtml:link rel="alternate" hreflang="de" href="https://www.rueth.info/de/legal/"/>
          
     </url>
 </urlset>
