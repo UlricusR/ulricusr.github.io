@@ -90,12 +90,14 @@ plugins:
         'index.php/de/easyfpe/easyfpe-uebersicht.md': 'https://www.rueth.info/de/#easyfpe'
         'index.php/de/joomla/churchcal-de.md': 'https://www.rueth.info/joomla-churchcal/de/'
         'index.php/de/joomla/eventlist-de.md': 'https://www.rueth.info/joomla4-eventlist/de/'
+        'index.php/de/impressum-und-datenschutz.md': 'https://www.rueth.info/iOS-EasyFPU/de/#datenschutzerklarung'
         'index.php/en.md': 'https://www.rueth.info'
         'index.php/en/easyfpu/easyfpu-android-en.md': 'https://www.rueth.info/Android-EasyFPU/en/'
         'index.php/en/easyfpu/easyfpu-for-ios.md': 'https://www.rueth.info/iOS-EasyFPU/en/'
         'index.php/en/easyfpu/easyfpu-overview.md': 'https://www.rueth.info/en/#easyfpu'
         'index.php/en/joomla/churchcal-en.md': 'https://www.rueth.info/joomla-churchcal/en/'
         'index.php/en/joomla/eventlist-en.md': 'https://www.rueth.info/joomla4-eventlist/en/'
+        'index.php/en/legal-notice-and-data-protection.md': 'https://www.rueth.info/iOS-EasyFPU/#privacy-policy'
 
 # Extensions
 markdown_extensions:
