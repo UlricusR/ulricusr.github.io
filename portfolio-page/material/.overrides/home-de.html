@@ -2,9 +2,9 @@
 
 <!-- Custom front matter -->
 {% block extrahead %}
-<link rel="stylesheet" href="assets/stylesheets/owl.carousel.min.css">
-<link rel="stylesheet" href="assets/stylesheets/owl.theme.default.min.css">
-<link rel="stylesheet" href="assets/stylesheets/home.css">
+<link rel="stylesheet" href="{{ 'assets/stylesheets/owl.carousel.min.css' | url }}">
+<link rel="stylesheet" href="{{ 'assets/stylesheets/owl.theme.default.min.css' | url }}">
+<link rel="stylesheet" href="{{ 'assets/stylesheets/home.css' | url }}">
 {{ super() }}
 {% endblock %}
 
@@ -13,7 +13,7 @@
 <div class="owl-carousel owl-theme">
   <div class="item">
     <div class="img-gradient">
-      <img class="owl-background" src="assets/images/pizza-4968645_1920.jpg" alt="EasyFPE" />
+      <img class="owl-background" src="{{ 'assets/images/pizza-4968645_1920.jpg' | url }}" alt="EasyFPE" />
     </div>
     <div class="owl-central">
       <h1 class="owl-title">EasyFPE</h1>
@@ -27,7 +27,7 @@
   </div>
   <div class="item">
     <div class="img-gradient">
-      <img class="owl-background" src="assets/images/joomla_wallpaper.png" alt="Joomla!-Erweiterungen" />
+      <img class="owl-background" src="{{ 'assets/images/joomla_wallpaper.png' | url }}" alt="Joomla!-Erweiterungen" />
     </div>
     <div class="owl-central">
       <h1 class="owl-title">Joomla!-Erweiterungen</h1>
@@ -44,8 +44,8 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="assets/javascripts/jquery.min.js"></script>
-<script src="assets/javascripts/owl.carousel.min.js"></script>
+<script src="{{ 'assets/javascripts/jquery.min.js' | url }}"></script>
+<script src="{{ 'assets/javascripts/owl.carousel.min.js' | url }}"></script>
 <script type="text/javascript">
   $('.owl-carousel').owlCarousel({
       items:1,

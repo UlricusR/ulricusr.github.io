@@ -48,38 +48,42 @@ extra:
 
 # Page tree
 nav:
-  - index.md
+  - Project Overview: index.md
   - EasyFPU for iOS: https://www.rueth.info/iOS-EasyFPU
   - EasyFPU for Android: https://www.rueth.info/Android-EasyFPU
   - EventList for Joomla: https://www.rueth.info/joomla4-eventlist/
   - ChurchCal for Joomla: https://www.rueth.info/joomla-churchcal/
-  - legal.md
+  - Legal Notice: legal.md
 
 # Plugins
 plugins:
   - i18n:
-      default_language: en
       languages:
-        en:
+        - locale: en
           name: English
-          site_name: Project Overview
-        de:
+          build: true
+          default: true
+        - locale: de
           name: Deutsch
+          build: true
           site_name: Projektübersicht
-      nav_translations:
-        de:
-          EasyFPU for iOS:
-            translation: EasyFPE für iOS
-            url: https://www.rueth.info/iOS-EasyFPU/de
-          EasyFPU for Android:
-            translation: EasyFPE für Android
-            url: https://www.rueth.info/Android-EasyFPU/de
-          EventList for Joomla:
-            translation: EventList für Joomla
-            url: https://www.rueth.info/joomla4-eventlist/de
-          ChurchCal for Joomla:
-            translation: ChurchCal für Joomla
-            url: https://www.rueth.info/joomla-churchcal/de
+          site_description: >-
+            Projektübersicht für rueth.info
+          site_url: https://www.rueth.info/de
+          nav_translations:
+            Project Overview: Projektübersicht
+            EasyFPU for iOS: EasyFPE für iOS
+            EasyFPU for Android: EasyFPE für Android
+            EventList for Joomla: EventList für Joomla
+            ChurchCal for Joomla: ChurchCal für Joomla
+            Legal Notice: Impressum und Datenschutz
+          nav:
+            - Projektübersicht: index.md
+            - EasyFPE für iOS: https://www.rueth.info/iOS-EasyFPU/de
+            - EasyFPE für Android: https://www.rueth.info/Android-EasyFPU/de
+            - EventList für Joomla: https://www.rueth.info/joomla4-eventlist/de
+            - ChurchCal für Joomla: https://www.rueth.info/joomla-churchcal/de
+            - Impressum und Datanschutz: legal.md
   - search
   - glightbox
   - redirects:
