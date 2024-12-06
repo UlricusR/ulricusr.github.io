@@ -22,6 +22,7 @@ It is available for [Android](https://www.rueth.info/Android-EasyFPU) and [Apple
 | Searchable and filterable food list                  | :material-check:{ .green }        | :material-check:{ .green }        |
 | Search in OpenFoodFacts food database                | :material-close:{ .red }          | :material-check:{ .green }        |
 | Scan product barcodes                                | :material-close:{ .red }          | :material-check:{ .green }        |
+| Create own recipes                                   | :material-close:{ .red }          | :material-check:{ .green }        |
 | Compose a meal from as many food items as you like   | :material-check:{ .green }        | :material-check:{ .green }        |
 | Calculation of calories                              | :material-check:{ .green }        | :material-check:{ .green }        |
 | Calculation of regular carbs                         | :material-check:{ .green }        | :material-check:{ .green }        |
@@ -39,6 +40,14 @@ It is available for [Android](https://www.rueth.info/Android-EasyFPU) and [Apple
     - Add as many food items as you wish, and filter or search your food list
     - Export or import your food list for data backup or sharing
     - Fast overview over all carbs types with calculation of the matching absorption time
+
+=== "Create Own Recipes"
+
+    Cook and bake with EasyFPU:
+
+    - Simply add ingredients to your recipe
+    - Enter the total weight and number of portions for the final product
+    - Save it just like any other dish in your food list
 
 === "Compose a Meal"
 

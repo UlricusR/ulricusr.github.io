@@ -22,6 +22,7 @@ Sie ist verfügbar für [Android](https://www.rueth.info/Android-EasyFPU/de) und
 | Durchsuch- und filterbare Essensliste             | :material-check:{ .green }        | :material-check:{ .green }        |
 | Produktsuche in OpenFoodFacts                     | :material-close:{ .red }          | :material-check:{ .green }        |
 | Scannen von Produkt-Barcodes                      | :material-close:{ .red }          | :material-check:{ .green }        |
+| Eigene Rezepte erstellen                          | :material-close:{ .red }          | :material-check:{ .green }        |
 | Mahlzeit aus beliebig vielen Essensbestandteilen  | :material-check:{ .green }        | :material-check:{ .green }        |
 | Berechnung von Kalorien                           | :material-check:{ .green }        | :material-check:{ .green }        |
 | Berechnung von regulären Kohlenhydraten           | :material-check:{ .green }        | :material-check:{ .green }        |
@@ -39,6 +40,14 @@ Sie ist verfügbar für [Android](https://www.rueth.info/Android-EasyFPU/de) und
     - Beliebig viele Essen anlegen, nach Lieblingsessen filtern oder in der Essensliste suchen
     - Export und Import der Essensliste zur Datensicherung oder zum Teilen
     - Schnelle Übersicht über die verschiedenen Kohlenhydratarten mit Darstellung der passenden Absorptionszeit
+
+=== "Rezepte erstellen"
+
+    Kochen und Backen mit EasyFPE:
+
+    - Einfach alle Zutaten hinzufügen
+    - Gesamtmenge und Anzahl Portionen des fertigen Gerichts eingeben
+    - Wie jedes andere Produkt in der Essensliste speichern
 
 === "Mahlzeit zusammenstellen"
 
